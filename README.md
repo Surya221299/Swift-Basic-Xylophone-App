@@ -1,7 +1,7 @@
 # **Swift-Basic-Xylophone-App**
 A simple iOS App will produce different sound if user tap each button from iOS &amp; Swift - The Complete iOS App Development Bootcamp by Dr. Angela Yu.
 
-_*demo video Xylophone App._
+_*Demo video Xylophone App._
 
 ![Xylophone](https://user-images.githubusercontent.com/60531747/236204365-7f1c13ac-7775-43f3-86a4-e656249057ae.gif)
 
